@@ -8,7 +8,7 @@ This project is a School Management System that allows for efficient management 
 
 Create a new database named "School" to store all the information.
 
-##Table	Description
+## Table	Description
 
 | Table | Description |
 |-------|-------------|
