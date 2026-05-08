@@ -10,12 +10,14 @@ Create a new database named "School" to store all the information.
 
 ##Table	Description
 
-1.Departments -	Stores department information
-2.Teachers	-   Manages teacher/staff records
-3.Students	-   Maintains student information
-4.Courses	-     Stores course details
-5.Enrollment -	Tracks student course registrations
-6.Course_Completion	-Records completed courses
+| Table | Description |
+|-------|-------------|
+| Departments | Stores department information |
+| Teachers | Manages teacher/staff records |
+| Students | Maintains student information |
+| Courses | Stores course details |
+| Enrollment | Tracks student course registrations |
+| Course_Completion | Records completed courses |
 
 ## SQL Queries and Analysis
 
